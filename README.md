@@ -3,4 +3,5 @@
  
 
 ### contents
-1.
+1. .ipynb source code from jupyter notebook
+2. .csv dataset file
